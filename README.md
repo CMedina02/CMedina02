@@ -1,30 +1,26 @@
-
-
-# ¡Hola! Soy CMedina02 👋
+# Hola, soy Cristian Medina 
 
 ### Software Developer | Backend & Full Stack
 
-Soy estudiante de **Ingeniería en Sistemas Computacionales**, apasionado por el desarrollo de software y la creación de soluciones tecnológicas.
+Soy estudiante de **Ingeniería en Sistemas Computacionales**, enfocado en el desarrollo de software, especialmente en aplicaciones Backend, Full Stack y sistemas empresariales.
 
-Me interesa especialmente el desarrollo **Backend y Full Stack**, el diseño de bases de datos, las APIs y los sistemas empresariales.
-
-Me gusta aprender nuevas tecnologías, resolver problemas reales y mejorar continuamente la calidad de mi código.
+Me interesa construir soluciones prácticas, diseñar APIs, trabajar con bases de datos y desarrollar aplicaciones mantenibles aplicando buenas prácticas de programación.
 
 ---
 
-## Tecnologías y herramientas
+##  Tecnologías y herramientas
 
-**Lenguajes de programación**
+**Lenguajes**
 
-Python · Java · JavaScript · PHP · SQL· C#
+Python · Java · JavaScript · PHP · C# · SQL · Dart
 
-**Desarrollo Backend**
+**Backend**
 
-Flask · Node.js · Express · APIs REST
+Flask · FastAPI · Node.js · Express · Spring Boot · APIs REST
 
-**Desarrollo Frontend**
+**Frontend**
 
-HTML5 · CSS3 · JavaScript
+React · TypeScript · HTML5 · CSS3 · JavaScript
 
 **Bases de datos**
 
@@ -32,37 +28,64 @@ PostgreSQL · SQLite
 
 **Herramientas y entornos**
 
-Git · GitHub · Docker · Linux · VS Code
+Git · GitHub · Docker · Linux · VS Code · Flutter · Tauri
 
 ---
 
 ## Proyectos destacados
 
-### [Produccion-Merma](https://github.com/CMedina02/Produccion-Merma)
+### 🪐 [Mapte — Mars Exploration Platform](https://github.com/CMedina02/Mapte)
 
-Aplicación web desarrollada con Python y Flask para gestionar información de producción, materiales y cálculos relacionados con merma.
+Plataforma web interactiva desarrollada en equipo para **NASA Space Apps Challenge 2026**, orientada a la exploración científica de Marte.
 
-### [PacoPizza](https://github.com/CMedina02/PacoPizza)
+Incluye visualización 2D/3D, planificación de rutas con A*, simulaciones, APIs REST, procesamiento de información geoespacial y persistencia de misiones.
 
-Proyecto web desarrollado en PHP con funcionalidades relacionadas con pedidos y gestión comercial.
+**Tecnologías:** React · TypeScript · Python · FastAPI · SQLite · Three.js
 
-### [Compiladosr](https://github.com/CMedina02/Compiladosr)
+### 📋 [KanbanProject — Agile Project Management](https://github.com/CMedina02/KanbanProject)
 
-Proyecto académico desarrollado en Python, enfocado en conceptos de compiladores y generación de código.
+Aplicación Full Stack para la gestión de proyectos mediante tableros Kanban.
+
+Permite administrar tareas, organizar columnas, registrar actividades, utilizar cronómetros y consultar métricas de seguimiento.
+
+**Tecnologías:** Node.js · Express · JavaScript · SQLite
+
+### 🍕 [PizzeriaPaco2.0 — Point of Sale](https://github.com/CMedina02/PizzeriaPaco2.0-POS)
+
+Sistema de punto de venta de escritorio orientado a operaciones comerciales.
+
+Incluye gestión de pedidos, catálogo de productos, control de insumos, administración de usuarios y operaciones de caja.
+
+**Tecnologías:** React · Tauri · Rust · SQLite
+
+### 🏭 [Produccion-Merma — Material Calculator](https://github.com/CMedina02/Produccion-Merma)
+
+Aplicación web para consultar registros de producción y calcular materiales necesarios considerando porcentajes de merma.
+
+Cuenta con autenticación, roles, administración de registros, persistencia SQLite y pruebas automatizadas.
+
+**Tecnologías:** Python · Flask · SQLite · Bootstrap
+
+---
+
+## Otros proyectos
+
+- **[Compiladosr](https://github.com/CMedina02/Compiladosr):** Analizador y mini compilador en Python con optimización y generación de código ensamblador 8086.
+- **[login_bear_animation](https://github.com/CMedina02/login_bear_animation):** Interfaz de inicio de sesión desarrollada con Flutter y animaciones Rive.
 
 ---
 
 ## Actualmente
 
-- Fortaleciendo mis conocimientos de desarrollo Backend y Full Stack.
-- Aprendiendo sobre arquitectura de software y buenas prácticas.
-- Desarrollando proyectos académicos y personales.
-- Explorando tecnologías para crear aplicaciones eficientes y mantenibles.
+- Fortaleciendo mis conocimientos en arquitectura Backend y Full Stack.
+- Desarrollando aplicaciones con Flutter, Python y Java.
+- Aprendiendo sobre diseño de APIs y bases de datos.
+- Trabajando en proyectos de software modular y empresarial.
 
 ---
 
-## Conecta conmigo
+## Contacto
 
-**GitHub:** [CMedina02](https://github.com/CMedina02)
+**GitHub:** [github.com/CMedina02](https://github.com/CMedina02)
 
-*Siempre aprendiendo, construyendo y mejorando.*
+*Always learning. Always building.*
