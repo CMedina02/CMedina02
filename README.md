@@ -1,4 +1,4 @@
-# Hola, soy Cristian Medina 
+# Hola, soy Cristian Medina
 
 ### Software Developer | Backend & Full Stack
 
@@ -8,25 +8,35 @@ Me interesa construir soluciones prácticas, diseñar APIs, trabajar con bases d
 
 ---
 
-##  Tecnologías y herramientas
+## Tecnologías y herramientas
 
 **Lenguajes**
+
+![Lenguajes](https://skillicons.dev/icons?i=python,java,js,php,cs,dart)
 
 Python · Java · JavaScript · PHP · C# · SQL · Dart
 
 **Backend**
 
+![Backend](https://skillicons.dev/icons?i=flask,fastapi,nodejs,express,spring)
+
 Flask · FastAPI · Node.js · Express · Spring Boot · APIs REST
 
 **Frontend**
+
+![Frontend](https://skillicons.dev/icons?i=react,ts,html,css,js)
 
 React · TypeScript · HTML5 · CSS3 · JavaScript
 
 **Bases de datos**
 
+![Bases de datos](https://skillicons.dev/icons?i=postgres,sqlite)
+
 PostgreSQL · SQLite
 
 **Herramientas y entornos**
+
+![Herramientas](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,flutter,tauri)
 
 Git · GitHub · Docker · Linux · VS Code · Flutter · Tauri
 
