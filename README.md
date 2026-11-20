@@ -1,3 +1,5 @@
+![Banner Neofetch de Cristian Medina](./banner_cristian_neofetch_2x.png)
+
 # Hola, soy Cristian Medina
 
 ### Software Developer | Backend & Full Stack
